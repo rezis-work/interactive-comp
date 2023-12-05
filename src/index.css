@@ -1,0 +1,11 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background: var(--Very-Dark-Blue, #131518);
+  height: 100vh;
+  padding: 195px 0px 189px 0px;
+}
